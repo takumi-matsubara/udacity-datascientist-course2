@@ -1,3 +1,6 @@
+# Important Note
+Submission branch is **main** branch. The develop branch is for work, so please refer to the main branch.
+
 # Predicting U.S. Weekly Business Applications 
 Udacity Data Scientist Nanodegree – Course 2 Project
 
